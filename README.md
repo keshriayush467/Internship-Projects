@@ -25,7 +25,7 @@ Fake and Real News Dataset from Kaggle.
 
 ## Accuracy
 
-Model achieves around **96–97% accuracy**.
+Model achieves around **98–99% accuracy**.
 
 ## Dataset Link
 
