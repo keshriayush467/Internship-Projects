@@ -33,7 +33,7 @@ How to Run:
 
 ---
 
- Project 2: Chest X-Ray Image Classification using ResNet
+ **Project 2: Chest X-Ray Image Classification using ResNet**
 
 Objective:
 Classify chest X-Ray images into normal or pneumonia using deep learning with ResNet.
